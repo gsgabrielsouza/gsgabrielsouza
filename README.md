@@ -3,10 +3,12 @@
 ## Hello, I'm Gabriel!
 
 my socials
+<br/>
 <a href="https://www.linkedin.com/in/gabrielluissouza/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614191504~hmac=77079c965129c31b878aa8a0d9c843dc" /></a>
 
 <br/>
-### Languages and Tools:
+
+## Languages and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
