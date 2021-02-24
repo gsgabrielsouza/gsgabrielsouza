@@ -2,7 +2,9 @@
 
 ## Hello, I'm Gabriel!
 
-my socials
+My socials
+
+<br/>
 <br/>
 <a href="https://www.linkedin.com/in/gabrielluissouza/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614191504~hmac=77079c965129c31b878aa8a0d9c843dc" /></a>
 
