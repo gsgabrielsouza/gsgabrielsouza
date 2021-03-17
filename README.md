@@ -18,6 +18,7 @@ My socials
 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"> <img align="left" alt="CSharp .NET" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://br.vuejs.org//images/logo.png"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://herve.beraud.io/images/blog/rabbitmq.png"/> </a>
 
 <br/>
 <!--
