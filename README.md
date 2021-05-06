@@ -19,6 +19,8 @@ My socials
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://br.vuejs.org//images/logo.png"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://herve.beraud.io/images/blog/rabbitmq.png"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="git" width="26px" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png"/> </a>
 
 <br/>
 <!--
