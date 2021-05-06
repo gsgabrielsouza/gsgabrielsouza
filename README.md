@@ -23,11 +23,15 @@ My socials
 <a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="git" width="26px" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png"/> </a>
 
 <br/>
-
-
-[![Gabriel Souza's github stats](https://github-readme-stats.vercel.app/api?username=gsgabrielsouza&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsgabrielsouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
+[![Gabriel Souza's github stats](https://github-readme-stats.vercel.app/api?username=gsgabrielsouza&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 <!--
 **gsgabrielsouza/gsgabrielsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
