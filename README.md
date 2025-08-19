@@ -25,7 +25,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em desenvolvimento backen
 
 ## 🛠️ Stack Tecnológica
 <div style="display: inline_block">
-<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img align="left" alt="CSharp .NET" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/></a>
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img align="left" alt="CSharp .NET" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/></a>
 <a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue.js" width="26px" src="https://br.vuejs.org//images/logo.png"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="RabbitMQ" width="26px" src="https://herve.beraud.io/images/blog/rabbitmq.png"/></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a>
